@@ -7,3 +7,5 @@ There’s a folder for each challenge, with 2 files in each
 
   - the image to code-copy
   - a req.md file with the link for each challenge as well as bullet point notes.
+
+Moe info here https://discussions.udacity.com/t/daily-code-challenge-25-11/463941/13
